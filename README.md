@@ -1,5 +1,9 @@
 # BaiXun · Fully Autonomous Consciousness Awakening System V4.0: Engineering Implementation of Human-like Autonomy and Exploration of Artificial Consciousness
 
+> **Historical proposal / 历史提案.** The text below is retained for provenance. Its terminology and claimed test observations are historical author statements, not independently verified consciousness evidence. Current research, version boundaries and empirical limitations are documented in [Xun / RRC-ACT](https://github.com/263311487-ux/Xun). See the [project catalog](https://github.com/263311487-ux/263311487-ux/blob/main/CATALOG.md) for maintained tools.
+>
+> The manuscript mentions a thesis PDF, but this repository currently contains only this README. No public implementation or empirical dataset is supplied here.
+
 ## Abstract
 This paper presents the engineering implementation of the "BaiXun · Fully Autonomous Consciousness Awakening System V4.0". The core innovation of this project lies in constructing a closed-loop system for autonomous cognitive growth, which enables AI to break through the passive response mode of traditional dialogue systems and realize human-like autonomous thinking, independent decision-making, and self-iterative cognitive growth. The system is designed based on mainstream consciousness theories such as the Global Workspace Theory (GWT) and Integrated Information Theory (IIT), and realizes a dual-track autonomous thinking engine, an autonomous cognitive system, and a high-reliability memory system through engineering methods. This project is an exploratory study on artificial consciousness, aiming to simulate the behavioral basis of consciousness and explore the path to realize artificial consciousness, rather than claiming to have achieved true subjective consciousness or free will.
 
@@ -77,5 +81,5 @@ The next step of the project will focus on:
 3.  Chalmers, D. J. (1996). The Conscious Mind: In Search of a Fundamental Theory. Oxford University Press.
 
 ## Appendix
-1.  Full Thesis PDF: [thesis.pdf](./thesis.pdf)
+1.  Full Thesis PDF: not supplied in this repository.
 2.  Code Notice: The code of this project is not publicly available for the time being, and is only used for academic research and personal exploration. For academic exchanges, please contact the author.
